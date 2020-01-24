@@ -3,4 +3,4 @@
 # Елена Погорелова
 Мои домашние задания
 
-[kartinky](https://elenaozz.github.io/ Моя готовая домашка)
+[kartinky](https://elenaozz.github.io/ Моя готовая домашка) - Работа с репозиторием на GitHub
